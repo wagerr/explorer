@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "IQUIDUS",
+  "title": "Wagerr Block Explorer",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Wagerr",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "WGR",
 
   // logo
   "logo": "/images/logo.png",
@@ -29,12 +29,12 @@
   "theme": "Cyborg",
 
   // port to listen for requests on.
-  "port" : 3001,
+  "port" : 80,
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "iquidus",
-    "password": "3xp!0reR",
+    "user": "wagerr",
+    "password": "wagerr",
     "database": "explorerdb",
     "address": "localhost",
     "port": 27017
@@ -47,9 +47,9 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 9332,
-    "user": "darkcoinrpc",
-    "pass": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
+    "port": 55003,
+    "user": "wagerr",
+    "pass": "this"
   },
 
   // confirmations
